@@ -1,0 +1,12 @@
+img {
+      width: 200px; /* Set desired width */
+      height: 200px; /* Set desired height */
+      object-fit: cover; /* Crops the image to fill the container, maintaining aspect ratio */
+      object-position: center; /* Positions the visible part of the image (e.g., '50% 50%' for center) */
+    }
+body {
+  text-align: center;
+  font-family: 'Fantasy';
+  background: chartreuse;
+  color: blueviolet;
+}
